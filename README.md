@@ -1,6 +1,6 @@
-_Facundo Cotto, Ignacio Correa , Pia Schiavone, Bruno Crizul_
+# _Facundo Cotto, Ignacio Correa , Pia Schiavone, Bruno Crizul_
 
-Acerca de GitHub
+## Acerca de GitHub
 
 GitHub es una plataforma basada en la nube donde puedes almacenar, compartir y trabajar junto con otros usuarios para escribir código.
 
@@ -10,7 +10,7 @@ Dejar que otros usuarios revisen el código y realicen sugerencias para mejorarl
 _Colaborar_ en un proyecto compartido, sin preocuparse de que los cambios afectarán al trabajo de los colaboradores antes de que esté listo para integrarlos.
 El trabajo colaborativo, una de las características fundamentales de GitHub, es posible gracias al software de código abierto Git, en el que se basa GitHub.
 
-Acerca de Git
+## Acerca de Git
 
 Git es un sistema de control de versiones que realiza un seguimiento de los cambios en los archivos. Git es especialmente útil cuando un grupo de personas y tú estáis haciendo cambios en los mismos archivos al mismo tiempo.
 
