@@ -1,3 +1,5 @@
+_Facundo Cotto, Ignacio Correa , Pia Schiavone, Bruno Crizul_
+
 Acerca de GitHub
 
 GitHub es una plataforma basada en la nube donde puedes almacenar, compartir y trabajar junto con otros usuarios para escribir código.
