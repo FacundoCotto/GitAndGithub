@@ -20,9 +20,9 @@ Dejar que Git realice un seguimiento de tus cambios y los de otras personas, por
 Para probar Git personalmente, consulta Comenzar con Git.
 ```
 
-¿Cómo funcionan Git y GitHub de manera conjunta?
+_¿Cómo funcionan Git y GitHub de manera conjunta?_
 
-Al cargar archivos en GitHub, los almacenarás en un "repositorio de Git". Esto significa que al realizar cambios (o "confirmaciones") en los archivos de GitHub, Git se iniciará automáticamente para realizar el seguimiento de los cambios y administrarlos.
+**Al cargar archivos en GitHub, los almacenarás en un "repositorio de Git". Esto significa que al realizar cambios (o "confirmaciones") en los archivos de GitHub, Git se iniciará automáticamente para realizar el seguimiento de los cambios y administrarlos.**
 
 Hay muchas acciones relacionadas con Git que puedes completar en GitHub directamente en el navegador, como crear un repositorio de Git, crear ramas y cargar y editar archivos.
 
