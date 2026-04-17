@@ -14,9 +14,11 @@ Git es un sistema de control de versiones que realiza un seguimiento de los camb
 
 Normalmente, para hacerlo en un flujo de trabajo basado en Git, harías lo siguiente: _ Crear una rama a partir de la copia principal de archivos en los que tú (y tus colaboradores) estáis trabajando. _ Realizar modificaciones en los archivos de forma independiente y segura en tu propia rama personal.
 
+```bash
 Deja que Git fusione de forma inteligente tus cambios específicos de nuevo a la copia principal de los archivos, de modo que no interfieran con las actualizaciones realizadas por otras personas.
 Dejar que Git realice un seguimiento de tus cambios y los de otras personas, por lo que todos siguen trabajando en la versión más actualizada del proyecto.
 Para probar Git personalmente, consulta Comenzar con Git.
+```
 
 ¿Cómo funcionan Git y GitHub de manera conjunta?
 
